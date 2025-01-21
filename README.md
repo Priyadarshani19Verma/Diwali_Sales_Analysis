@@ -1,6 +1,8 @@
 # Diwali_Sales_Analysis
-Project Objective - * Improve customer experience by analyzing sales data
+Project Objective - * Improve customer experience by analyzing sales data.
+
                     * Increase revenue
+
 
 Project Leraning  - * Performed data cleaning and manipulation.
 
