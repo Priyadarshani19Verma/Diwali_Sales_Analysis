@@ -4,7 +4,7 @@ Project Objective - * Improve customer experience by analyzing sales data.
                     * Increase revenue
 
 
-Project Leraning  - * Performed data cleaning and manipulation.
+Project Learning  - * Performed data cleaning and manipulation.
 
                     * Performed exploratory data analysis (EDA) using pandas , matplotlib  and seaborn libraries.
                     
